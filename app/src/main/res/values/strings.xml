@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OtpVerificationDemo</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="send_otp">Generate otp</string>
+    <string name="enter_received_otp">enter received otp</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="firebase_otp">Firebase OTP</string>
+    <string name="demo_completed">Demo Completed</string>
+</resources>
